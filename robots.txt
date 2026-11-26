@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /app/
+Disallow: /gradle/
+Disallow: /.github/
+Disallow: /.aistudio/
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://dinushlakmal.github.io/Slashboard-sinhala-Keyboard/sitemap.xml
